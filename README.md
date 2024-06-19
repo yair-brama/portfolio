@@ -1,22 +1,51 @@
-# Data Scientist
+# Delivery Manager, Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, GCP, Business Analytics
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Post-Graduate, Data Science and Business Analytics | UT Austin, McCombs School of Business,  (_2024_)								       		
+- MBA, Finance and Marketing	| Hebrew University  (_2008_)	 			        		
+- B.S.c, Computer Science and Math | Bar-Ilan University (_2000_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Delivery Manager @ FLYR Labs (_2023_)**
+- Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.
+- Implemented FLYR products, resolving issues throughout ETL process and providing technical assistance to live customers
+- Developed plans for hiring, training and mentoring new and existing team members, defining team OKRs
+- Established playbooks for supporting customers by working closely with SRE, project management, customer success teams
+- Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)**
+- Defined scope of work (SOW) of all KornitX projects (SaaS) in North America, problem solving in over 15 projects
+- Managed a team of Implementation Managers and Solution Architects across the Americas region
+- Supervised development and implementation of strategic projects of KornitX, including:
+  - Canva - migrated a network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com and oversaw newly added developments to enhance Canva network requiring refined time management skills
+  - Wix - established network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform • Conduit between sales, customer success, development and support teams for all North America accounts
+- Skilled at building trust, using honed customer-centric interpersonal, written and verbal communication skills
 
-## Projects
+**Senior Project Manager @ Amdocs, Inc. (_2016 - 2021_)**
+- Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs
+- Designed data-driven projects (data pipelines, data visualization) for business KPIs
+- Drove implementation of SRE and DevOps across the region, promoting, training, defining KPIs
+- Promoted innovation and technological solutions for better tracking and reporting of KPIs across the region, resulting in savings of $500,000/year in potential penalties
+
+**Solution Designer @ Amdocs, Inc. (_2013 - 2016_)**
+- Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects • Created Enabler system requirements for AT&T business, in a $10M project (Fixed Wireless Internet)
+- Reviewed solution design documents throughout project lifecycle, analyzing and providing architectural solutions
+- Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync • Coordinated integration between Amdocs applications and data lake/data warehouse systems
+
+**Sr. Business Analyst @ Ex Libris Group (_2007 - 2013_)**
+- Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content
+- Gathered customer requirements and functional specifications for new and existing projects
+- Developed system flows and business processes, using Software Architecture Concepts and Tools, including Balsamiq, Visio, Enterprise Architect
+- Supervised implementation and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic
+
+**Senior Application Developer @ Amdocs, Inc. (_1999 – 2007_)**
+- Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C
+- Responsible for project management throughout the project life cycle, from planning through implementation
+- Led code reviews, unit testing and debugging, analyzing and resolving defects identified through QA process
+
+## Data Visualization Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -24,30 +53,24 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Skills
+ETL, Data Visualization, SQL, Postman, Power BI, Airflow, Google Cloud, BigQuery, DBT, Monte Carlo, SaaS, Python Project Management, JIRA, Confluence, agile, scrum, Kanban, SRE, DevOps, SLA, KPIs, OKRs
+Design Tools, Miro, Visio, Enterprise Architect, draw.io, Office Suites, Google Suite
+Problem solver, good judgment, flexible, dependable, adaptable, creative, strategic thinker
+Bilingual, comfortable with ambiguity, excellent presenter
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Honors
+- Valued and praised by Canva Print Ops Team for “relationship building, people skills, patience and dedication”
+- Rated “Excellent in Overall Training” by Brigham Young University system users
+- Evaluated “Outstanding Trainer” by customers at The Swiss Federal Institute of Technology (ETH)
+- Singled out as “highly professional” in customer feedback, The State Library of Bavaria
+- Acknowledged by international clients for “good humor and positivity”, The National Library of New Zealand
+- Repeatedly requested by clients for communication and knowledge skills, Verizon and AT&T
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Army Officer (Military Rank: Major) (1993 – 2013)**  
+Demonstrated transferable skills, including dedication, leadership, teamwork, and positive work ethic
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+**About me:**
+I’m a history buff and a passionate long-distance endurance runner. I’ve proudly completed over 20 organized races and half-marathons.
