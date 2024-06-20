@@ -1,11 +1,11 @@
-# Delivery Manager, Data Scientist
+# Delivery Manager/Data Scientist
 
 #### Technical Skills: Python, SQL, GCP, Business Analytics
 
 ## Education
-- Post-Graduate, Data Science and Business Analytics | UT Austin, McCombs School of Business,  (_2024_)								       		
-- MBA, Finance and Marketing	| Hebrew University  (_2008_)	 			        		
-- B.S.c, Computer Science and Math | Bar-Ilan University (_2000_)
+- Post-Graduate, Data Science & Business Analytics | UT Austin, McCombs School of Business,  (_2024_)						       		
+- MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
+- B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
 ## Work Experience
 **Delivery Manager @ FLYR Labs (_2023_)**
@@ -13,23 +13,22 @@
 - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation
 
 **Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)**
-- Managed a team of Implementation Managers and Solution Architects across the Americas region
+- Managed a team of Implementation Managers and Solution Architects across North America
 - Supervised development and implementation of strategic projects of KornitX, including:
-  - Canva - migrated a network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com and oversaw newly added developments to enhance Canva network requiring refined time management skills
-  - Wix - established network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform • Conduit between sales, customer success, development and support teams for all North America accounts
+  - Canva - Network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com 
+  - Wix - Network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform 
 
 **Senior Project Manager @ Amdocs, Inc. (_2016 - 2021_)**
 - Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs
-- Designed data-driven projects (data pipelines, data visualization) for business KPIs
-- Promoted innovation and technological solutions for better tracking and reporting of KPIs across the region, resulting in savings of $500,000/year in potential penalties
+- Designed data-driven projects (data pipelines, data visualization) for business KPIs/SLA resulting in savings of $500,000/year in potential penalties
 
 **Solution Designer @ Amdocs, Inc. (_2013 - 2016_)**
-- Headed requirement sessions as Solution Architect, representing Amdocs Enabler (billing system) in AT&T projects • Created Enabler system requirements for AT&T business, in a $10M project (Fixed Wireless Internet)
-- Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync • Coordinated integration between Amdocs applications and data lake/data warehouse systems
+- Headed requirement sessions, representing Amdocs Enabler (billing system) in a $10M project (Fixed Wireless Internet) 
+- Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync
 
 **Sr. Business Analyst @ Ex Libris Group (_2007 - 2013_)**
 - Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content
-- Acted as a product owner and conducted training in national libraries in NZ, Germany, Switzerland and Czech Republic
+- Supervised implementation and conducted  training in national libraries in NZ, Germany, Switzerland and Czech Republic
 
 **Senior Application Developer @ Amdocs, Inc. (_1999 – 2007_)**
 - Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C
@@ -38,7 +37,7 @@
 ### Data-Driven Airfares Analysis
 [AIrfares analysis](https://yair-brama-airfares.onrender.com/)
 
-I created a dashboard for visualizing the volatility and trending of airfares as they reflect over 2 months of observations. The user can choose the market (e.g. BOSRIC - Boston to Richmond), the departure date and then select a specific flight number, filter by volatility level (low, mid or high) or the trend the price are updated (positive, negative). If there is more than one flight (e.g. all the flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
+I created a dashboard for visualizing the volatility and trending of airfares prices as they are observed over 2 months. The user can choose the market (e.g. BOSRIC - Boston to Richmond), the departure date and then select a specific flight number. In addition, he/she can filter by volatility level (low, mid or high) or the trend of the prices (positive, negative). If there is more than one flight (e.g. the 5 flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
 
 ![Airfares plot](/assets/Airfares plot.png)
 
