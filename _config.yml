@@ -3,5 +3,4 @@ theme: jekyll-theme-minimal
 title: Yair Brama
 #description: My data science portfolio
 github:
-  zip_url:  
-  another_url:  
+  is_project_page: false 
