@@ -2,3 +2,5 @@ logo: /assets/Profile image Yair-1.jpg
 theme: jekyll-theme-minimal
 title: Yair Brama
 #description: My data science portfolio
+is_project_page: False
+github.is_user_page: False
