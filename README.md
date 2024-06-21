@@ -10,15 +10,16 @@
 ## Work Experience
 <details>
   <summary> </summary> 
-<b>Delivery Manager @ FLYR Labs (_2023_)</b>
-- Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.
-- Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation
-
-<b>Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)</b>
-- Managed a team of Implementation Managers and Solution Architects across North America
-- Supervised development and implementation of strategic projects of KornitX, including:
-  - Canva - Network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com 
-  - Wix - Network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform 
+<h1>Delivery Manager @ FLYR Labs (_2023_)</h1>
+<p>
+- Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.<br>
+- Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation<br>
+ </p>
+<p>Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)</p>
+- Managed a team of Implementation Managers and Solution Architects across North America<br>
+- Supervised development and implementation of strategic projects of KornitX, including:<br>
+  - Canva - Network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com <br>
+  - Wix - Network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform <br>
 
 **Senior Project Manager @ Amdocs, Inc. (_2016 - 2021_)**
 - Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs
