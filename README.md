@@ -2,40 +2,50 @@
 
 #### Technical Skills: Python, SQL, GCP, Business Analytics
 
-## Education
+### Education
 - Post-Graduate, Data Science & Business Analytics | UT Austin, McCombs School of Business,  (_2024_)						       		
 - MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
-## Work Experience
+### Work Experience
 <details>
   <summary> </summary> 
-<h1>Delivery Manager @ FLYR Labs (_2023_)</h1>
+<h2>Delivery Manager @ FLYR Labs (_2023_)</h2>
 <p>
-- Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.<br>
-- Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation<br>
+  - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.<br>
+  - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation<br>
  </p>
-<p>Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)</p>
-- Managed a team of Implementation Managers and Solution Architects across North America<br>
-- Supervised development and implementation of strategic projects of KornitX, including:<br>
-  - Canva - Network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com <br>
-  - Wix - Network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform <br>
+  
+<h2>Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)</h2>
+<p>
+  - Managed a team of Implementation Managers and Solution Architects across North America<br>
+  - Supervised development and implementation of strategic projects of KornitX, including:<br>
+     - Canva - Network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com <br>
+     - Wix - Network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform <br>
+</p>
 
-**Senior Project Manager @ Amdocs, Inc. (_2016 - 2021_)**
-- Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs
-- Designed data-driven projects (data pipelines, data visualization) for business KPIs/SLA resulting in savings of $500,000/year in potential penalties
+<h2>Senior Project Manager @ Amdocs, Inc. (_2016 - 2021_)</h2>
+<p>
+  - Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs<br>
+  - Designed data-driven projects (data pipelines, data visualization) for business KPIs/SLA resulting in savings of $500,000/year in potential penalties<br>
+</p>
 
-**Solution Designer @ Amdocs, Inc. (_2013 - 2016_)**
-- Headed requirement sessions, representing Amdocs Enabler (billing system) in a $10M project (Fixed Wireless Internet) 
-- Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync
+<h2>Solution Designer @ Amdocs, Inc. (_2013 - 2016_)</h2>
+<p>
+  - Headed requirement sessions, representing Amdocs Enabler (billing system) in a $10M project (Fixed Wireless Internet)<br>
+  - Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync<br>
+</p>
 
-**Sr. Business Analyst @ Ex Libris Group (_2007 - 2013_)**
-- Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content
-- Supervised implementation and conducted  training in national libraries in NZ, Germany, Switzerland and Czech Republic
+<h2>Sr. Business Analyst @ Ex Libris Group (_2007 - 2013_)</h2>
+<p>
+  - Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content<br>
+  - Supervised implementation and conducted  training in national libraries in NZ, Germany, Switzerland and Czech Republic<br>
+</p>
 
-**Senior Application Developer @ Amdocs, Inc. (_1999 – 2007_)**
-- Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C
-
+<h2>Senior Application Developer @ Amdocs, Inc. (_1999 – 2007_)</h2>
+<p>
+  - Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C<br>
+</p>
 </details>
 
 ## Data Visualization Projects
