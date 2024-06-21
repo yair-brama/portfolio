@@ -7,16 +7,16 @@
 - MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
-## Work Experience
 <details>
+  <h2> Work Experience </h2>
   <summary> </summary> 
-<h3>Delivery Manager @ FLYR Labs (_2023_)</h3>
+<h3>Delivery Manager @ FLYR Labs (2023)</h3>
 <p>
   - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.<br>
   - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation<br>
  </p>
   
-<h2>Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)</h2>
+<h3>Manager, Professional Services Team @ Kornit Digital, Inc. (2021 - 2023)</h3>
 <p>
   - Managed a team of Implementation Managers and Solution Architects across North America<br>
   - Supervised development and implementation of strategic projects of KornitX, including:<br>
@@ -24,13 +24,13 @@
      - Wix - Network of fulfillers for thousands of print-on-demand products for Wix e-commerce platform <br>
 </p>
 
-<h2>Senior Project Manager @ Amdocs, Inc. (_2016 - 2021_)</h2>
+<h3>Senior Project Manager @ Amdocs, Inc. (2016 - 2021)</h3>
 <p>
   - Led a team of 8 analysts across Mexico, Brazil, Chile, Peru, Argentina, guiding Production Support Groups in SLAs<br>
   - Designed data-driven projects (data pipelines, data visualization) for business KPIs/SLA resulting in savings of $500,000/year in potential penalties<br>
 </p>
 
-<h2>Solution Designer @ Amdocs, Inc. (_2013 - 2016_)</h2>
+<h3>Solution Designer @ Amdocs, Inc. (2013 - 2016)</h3>
 <p>
   - Headed requirement sessions, representing Amdocs Enabler (billing system) in a $10M project (Fixed Wireless Internet)<br>
   - Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync<br>
@@ -42,11 +42,12 @@
   - Supervised implementation and conducted  training in national libraries in NZ, Germany, Switzerland and Czech Republic<br>
 </p>
 
-<h2>Senior Application Developer @ Amdocs, Inc. (_1999 – 2007_)</h2>
+<h3>Senior Application Developer @ Amdocs, Inc. (1999 – 2007)</h3>
 <p>
   - Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C<br>
 </p>
 </details>
+
 
 ## Data Visualization Projects
 ### Data-Driven Airfares Analysis
@@ -57,7 +58,7 @@ I created a dashboard for visualizing the volatility and trending of airfares pr
 
 
 ## Skills
-**Click to expand!**
+
 ETL, Data Visualization, SQL, Postman, Power BI, Airflow, Google Cloud, BigQuery, DBT, Monte Carlo, SaaS, Python Project Management, JIRA, Confluence, agile, scrum, Kanban, SRE, DevOps, SLA, KPIs, OKRs
 Design Tools, Miro, Visio, Enterprise Architect, draw.io, Office Suites, Google Suite
 Problem solver, good judgment, flexible, dependable, adaptable, creative, strategic thinker
@@ -65,7 +66,7 @@ Bilingual, comfortable with ambiguity, excellent presenter
 
 
 ## Honors
-**Click to expand!**
+
 - Valued and praised by Canva Print Ops Team for “relationship building, people skills, patience and dedication”
 - Rated “Excellent in Overall Training” by Brigham Young University system users
 - Evaluated “Outstanding Trainer” by customers at The Swiss Federal Institute of Technology (ETH)
@@ -74,7 +75,7 @@ Bilingual, comfortable with ambiguity, excellent presenter
 - Repeatedly requested by clients for communication and knowledge skills, Verizon and AT&T
 
 **Army Officer (Military Rank: Major) (1993 – 2013)** 
-**Click to expand!**
+
 Demonstrated transferable skills, including dedication, leadership, teamwork, and positive work ethic
 
 **About me:**
