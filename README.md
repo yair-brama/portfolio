@@ -7,8 +7,8 @@
 - MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
+## Work Experience
 <details>
-  <h2> Work Experience </h2>
   <summary> </summary> 
 <h3>Delivery Manager @ FLYR Labs (2023)</h3>
 <p>
@@ -36,7 +36,7 @@
   - Acted as Product Owner with scrum development teams, keeping requirements, design and sprints results in-sync<br>
 </p>
 
-<h2>Sr. Business Analyst @ Ex Libris Group (_2007 - 2013_)</h2>
+<h3>Sr. Business Analyst @ Ex Libris Group (2007 - 2013)</h3>
 <p>
   - Designed functional parts of Rosetta, Digital Repository System, for storing and preserving digital content<br>
   - Supervised implementation and conducted  training in national libraries in NZ, Germany, Switzerland and Czech Republic<br>
