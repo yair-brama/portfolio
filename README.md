@@ -8,7 +8,7 @@
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
 <details open>
-<summary><b>Work Experience</b></summary>
+<summary>##Work Experience</summary>
   
 **Delivery Manager @ FLYR Labs (_2023_)**
 - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.
