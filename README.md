@@ -7,8 +7,9 @@
 - MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
-## Work Experience
-**Click to expand!**
+<details open>
+<summary><b>Work Experience</b></summary>
+  
 **Delivery Manager @ FLYR Labs (_2023_)**
 - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.
 - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation
@@ -33,6 +34,7 @@
 
 **Senior Application Developer @ Amdocs, Inc. (_1999 – 2007_)**
 - Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C
+</details>
 
 ## Data Visualization Projects
 ### Data-Driven Airfares Analysis
