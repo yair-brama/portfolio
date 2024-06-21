@@ -44,7 +44,7 @@
 
 <h3>Senior Application Developer @ Amdocs, Inc. (1999 – 2007)</h3>
 <p>
-  - Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C<br>
+  - Team Leader of Compound Adverts, responsible for design, development, support and maintenance in Verizon and AT&T Directories upgrade projects to UNIX and Oracle platforms using SQL and C<br><br>
 </p>
 </details>
 
