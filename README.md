@@ -2,15 +2,15 @@
 
 #### Technical Skills: Python, SQL, GCP, Business Analytics
 
-### Education
+## Education
 - Post-Graduate, Data Science & Business Analytics | UT Austin, McCombs School of Business,  (_2024_)						       		
 - MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
-### Work Experience
+## Work Experience
 <details>
   <summary> </summary> 
-<h2>Delivery Manager @ FLYR Labs (_2023_)</h2>
+<h3>Delivery Manager @ FLYR Labs (_2023_)</h3>
 <p>
   - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.<br>
   - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation<br>
