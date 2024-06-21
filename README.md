@@ -9,13 +9,12 @@
 
 ## Work Experience
 <details>
-  <summary> </summary>
-  
-**Delivery Manager @ FLYR Labs (_2023_)**
+  <summary> </summary> 
+<b>Delivery Manager @ FLYR Labs (_2023_)</b>
 - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.
 - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation
 
-**Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)**
+<b>Manager, Professional Services Team @ Kornit Digital, Inc. (_2021 - 2023_)</b>
 - Managed a team of Implementation Managers and Solution Architects across North America
 - Supervised development and implementation of strategic projects of KornitX, including:
   - Canva - Network of 15 fulfillers (20+APIs), supporting 20M yearly orders designed in Canva.com 
