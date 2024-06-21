@@ -1,4 +1,4 @@
-# Delivery Manager/Data Scientist
+# Delivery Manager/Data Enthusiast
 
 #### Technical Skills: Python, SQL, GCP, Business Analytics
 
@@ -8,6 +8,7 @@
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
 ## Work Experience
+**Click to expand!**
 **Delivery Manager @ FLYR Labs (_2023_)**
 - Managed international delivery team of data analysts, data scientists and data engineers located in Poland and the U.S.
 - Directed Airflow-based workflow orchestration upgrade in Google Cloud Composer for $100M JetBlue implementation
@@ -42,6 +43,7 @@ I created a dashboard for visualizing the volatility and trending of airfares pr
 
 
 ## Skills
+**Click to expand!**
 ETL, Data Visualization, SQL, Postman, Power BI, Airflow, Google Cloud, BigQuery, DBT, Monte Carlo, SaaS, Python Project Management, JIRA, Confluence, agile, scrum, Kanban, SRE, DevOps, SLA, KPIs, OKRs
 Design Tools, Miro, Visio, Enterprise Architect, draw.io, Office Suites, Google Suite
 Problem solver, good judgment, flexible, dependable, adaptable, creative, strategic thinker
@@ -49,6 +51,7 @@ Bilingual, comfortable with ambiguity, excellent presenter
 
 
 ## Honors
+**Click to expand!**
 - Valued and praised by Canva Print Ops Team for “relationship building, people skills, patience and dedication”
 - Rated “Excellent in Overall Training” by Brigham Young University system users
 - Evaluated “Outstanding Trainer” by customers at The Swiss Federal Institute of Technology (ETH)
@@ -56,7 +59,8 @@ Bilingual, comfortable with ambiguity, excellent presenter
 - Acknowledged by international clients for “good humor and positivity”, The National Library of New Zealand
 - Repeatedly requested by clients for communication and knowledge skills, Verizon and AT&T
 
-**Army Officer (Military Rank: Major) (1993 – 2013)**  
+**Army Officer (Military Rank: Major) (1993 – 2013)** 
+**Click to expand!**
 Demonstrated transferable skills, including dedication, leadership, teamwork, and positive work ethic
 
 **About me:**
