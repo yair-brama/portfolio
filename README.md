@@ -56,6 +56,7 @@
 
 I created a dashboard for visualizing the volatility and trending of airfares prices as they are observed over 2 months. The user can choose the market (e.g. BOSRIC - Boston to Richmond), the departure date and then select a specific flight number. In addition, he/she can filter by volatility level (low, mid or high) or the trend of the prices (positive, negative). If there is more than one flight (e.g. the 5 flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
 
+[View car sales analysis](/car_prices_eda.ipynb)
 
 ## Skills
 
