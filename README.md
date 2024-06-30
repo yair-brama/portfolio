@@ -7,6 +7,33 @@
 - MBA, Finance & Marketing	| Hebrew University  (_2008_)	 			        		
 - B.S.c, Computer Science & Math | Bar-Ilan University (_2000_)
 
+## Data Visualization Projects
+### Data-Driven Airfares Analysis
+![Airfares plot](/assets/Airfares plot.png)
+[View airfares analysis](https://yair-brama-airfares.onrender.com/)
+
+I created a dashboard for visualizing the volatility and trending of airfares prices as they are observed over 2 months. The user can choose the market (e.g. BOSRIC - Boston to Richmond), the departure date and then select a specific flight number. In addition, he/she can filter by volatility level (low, mid or high) or the trend of the prices (positive, negative). If there is more than one flight (e.g. the 5 flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
+
+### Car Prices Analysis - A Kaggle dataset
+
+The "Vehicle Sales and Market Trends Dataset" provides a comprehensive collection of information pertaining to the sales transactions of various vehicles. This dataset encompasses details such as the make, model, body type, transmission type, state of registration, condition rating, odometer reading, exterior and interior colors, seller information, Manheim Market Report (MMR) values, selling prices, and sale dates.
+In my analysis I performed a data cleanup and normalization, handling missing values by removing some records or completing it by making calculations.
+The cleanup can be seen [here](/car_prices_eda.html)
+The data visualization with some observation can be found here - [View car sales analysis](/car_prices_eda.html) 
+
+[View dynamic histogram for reviewing prices across states](/Car_sales_dash_plots(1).html)
+
+## Skills
+<details>
+  <summary> </summary> 
+  <p>
+ETL, Data Visualization, SQL, Postman, Power BI, Airflow, Google Cloud, BigQuery, DBT, Monte Carlo, SaaS, Python, <br> Project Management, JIRA, Confluence, agile, scrum, Kanban, SRE, DevOps, SLA, KPIs, OKRs <br>
+Design Tools, Miro, Visio, Enterprise Architect, draw.io, Office Suites, Google Suite <br>
+Problem solver, good judgment, flexible, dependable, adaptable, creative, strategic thinker <br>
+Bilingual, comfortable with ambiguity, excellent presenter <br><br>
+  </p>
+</details>
+
 ## Work Experience
 <details>
   <summary> </summary> 
@@ -48,36 +75,26 @@
 </p>
 </details>
 
-
-## Data Visualization Projects
-### Data-Driven Airfares Analysis
-![Airfares plot](/assets/Airfares plot.png)
-[View airfares analysis](https://yair-brama-airfares.onrender.com/)
-
-I created a dashboard for visualizing the volatility and trending of airfares prices as they are observed over 2 months. The user can choose the market (e.g. BOSRIC - Boston to Richmond), the departure date and then select a specific flight number. In addition, he/she can filter by volatility level (low, mid or high) or the trend of the prices (positive, negative). If there is more than one flight (e.g. the 5 flights from Boston to Richmond on May 5 that their price is going down) then the plot will show the average price over the observation time period.
-
-[View car sales analysis](/car_prices_eda.html)
-
-## Skills
-
-ETL, Data Visualization, SQL, Postman, Power BI, Airflow, Google Cloud, BigQuery, DBT, Monte Carlo, SaaS, Python Project Management, JIRA, Confluence, agile, scrum, Kanban, SRE, DevOps, SLA, KPIs, OKRs
-Design Tools, Miro, Visio, Enterprise Architect, draw.io, Office Suites, Google Suite
-Problem solver, good judgment, flexible, dependable, adaptable, creative, strategic thinker
-Bilingual, comfortable with ambiguity, excellent presenter
-
-
 ## Honors
-
-- Valued and praised by Canva Print Ops Team for “relationship building, people skills, patience and dedication”
-- Rated “Excellent in Overall Training” by Brigham Young University system users
-- Evaluated “Outstanding Trainer” by customers at The Swiss Federal Institute of Technology (ETH)
-- Singled out as “highly professional” in customer feedback, The State Library of Bavaria
-- Acknowledged by international clients for “good humor and positivity”, The National Library of New Zealand
-- Repeatedly requested by clients for communication and knowledge skills, Verizon and AT&T
-
+<details>
+  <summary> </summary>
+ <p> 
+- Valued and praised by Canva Print Ops Team for “relationship building, people skills, patience and dedication” <br>
+- Rated “Excellent in Overall Training” by Brigham Young University system users <br>
+- Evaluated “Outstanding Trainer” by customers at The Swiss Federal Institute of Technology (ETH) <br>
+- Singled out as “highly professional” in customer feedback, The State Library of Bavaria <br>
+- Acknowledged by international clients for “good humor and positivity”, The National Library of New Zealand <br>
+- Repeatedly requested by clients for communication and knowledge skills, Verizon and AT&T <br><br>
+</p>
+ </details> 
+ 
 **Army Officer (Military Rank: Major) (1993 – 2013)** 
-
-Demonstrated transferable skills, including dedication, leadership, teamwork, and positive work ethic
-
+<details>
+  <summary> </summary>
+ <p>
+Demonstrated transferable skills, including dedication, leadership, teamwork, and positive work ethic <br><br>
+</p>
+ </details> 
+ 
 **About me:**
 I’m a history buff and a passionate long-distance endurance runner. I’ve proudly completed over 20 organized races and half-marathons.
