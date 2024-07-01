@@ -19,9 +19,11 @@ I created a dashboard for visualizing the volatility and trending of airfares pr
 The "Vehicle Sales and Market Trends Dataset" provides a comprehensive collection of information pertaining to the sales transactions of various vehicles. This dataset encompasses details such as the make, model, body type, transmission type, state of registration, condition rating, odometer reading, exterior and interior colors, seller information, Manheim Market Report (MMR) values, selling prices, and sale dates.
 In my analysis I performed a data cleanup and normalization, handling missing values by removing some records or completing it by making calculations.
 The cleanup can be seen [here](/car_prices_eda.html)
-The data visualization with some observation can be found here - [View car sales analysis](/car_prices_cleanup.html) 
+The data visualization with observations can be found here - [View car sales analysis](/car_prices_cleanup.html) 
 
-[View dynamic histogram for reviewing prices across states](/Car_sales_dash_plots.html)
+![Cars Details](/assets/plot fields.png)
+![Cars prices in different states](/assets/newplot.png)
+[View code for dynamic histogram](/Car_sales_dash_plots.html)
 
 ## Skills
 <details>
@@ -88,7 +90,7 @@ Bilingual, comfortable with ambiguity, excellent presenter <br><br>
 </p>
  </details> 
  
-**Army Officer (Military Rank: Major) (1993 – 2013)** 
+## Army Officer (Military Rank: Major) (1993 – 2013)
 <details>
   <summary> </summary>
  <p>
