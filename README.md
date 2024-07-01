@@ -89,14 +89,7 @@ Bilingual, comfortable with ambiguity, excellent presenter <br><br>
 - Repeatedly requested by clients for communication and knowledge skills, Verizon and AT&T <br><br>
 </p>
  </details> 
- 
-## Army Officer (Military Rank: Major) (1993 – 2013)
-<details>
-  <summary> </summary>
- <p>
-Demonstrated transferable skills, including dedication, leadership, teamwork, and positive work ethic <br><br>
-</p>
- </details> 
+
  
 **About me:**
 I’m a history buff and a passionate long-distance endurance runner. I’ve proudly completed over 20 organized races and half-marathons.
