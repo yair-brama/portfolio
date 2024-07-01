@@ -21,7 +21,7 @@ In my analysis I performed a data cleanup and normalization, handling missing va
 The cleanup can be seen [here](/car_prices_eda.html)
 The data visualization with observations can be found here - [View car sales analysis](/car_prices_cleanup.html) 
 
-![Cars Details](/assets/plot fields.png)
+![Cars Details](/assets/plot_fields.PNG)
 ![Cars prices in different states](/assets/newplot.png)
 [View code for dynamic histogram](/Car_sales_dash_plots.html)
 
